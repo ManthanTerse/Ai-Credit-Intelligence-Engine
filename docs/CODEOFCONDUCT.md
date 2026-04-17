@@ -101,7 +101,7 @@ This Code of Conduct applies to:
 
 Whether you are **contributing code, writing documentation, attending discussions, or representing Ai-Credit-Intelligence-Engine**, you are expected to follow this Code of Conduct.  
 
-Examples: official email, social media accounts, events, or meetups.  
+Examples: official email, social media accounts or google meets.  
 
 <p align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTU4b3d5cXFndndqem14Ym1uOG95cXUxbWpvcTdzMDN3YjR1ZnRqayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H03PuVdwREB21ANkLX/giphy.gif" width="350" alt="Scope GIF">
@@ -136,7 +136,7 @@ Consequences for violations:
 
 This Code of Conduct is adapted from the [Contributor Covenant (v3.0)](https://www.contributor-covenant.org/version/3/0/code_of_conduct/), with modifications tailored for **Ai-Credit-Intelligence-Engine under the Nexus Spring of Code (NSoC’26)**.  
 
-📌 Original work licensed under [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/)  
+📌 Original work licensed under [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/).
 
 Enforcement guidelines inspired by [Mozilla’s code of conduct enforcement ladder](https://github.com/mozilla/diversity).  
 
