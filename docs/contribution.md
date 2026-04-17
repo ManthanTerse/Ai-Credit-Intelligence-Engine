@@ -20,14 +20,14 @@ This guide will walk you through the entire contribution process, from setting u
 3. [Ways to Contribute](#-ways-to-contribute)
 4. [How You Can Contribute](#-How-You-Can-Contribute)
 5. [Getting Started](#-Getting-Started)
-6. Installation
+6. [Installation](#-installation)
 7. [PR review Process](#-pr-review-process)
 8. [Guidelines](#-Guidelines)
 9. [How To Contribute](#-how-to-contribute)
-Ideas
-10. [Need More Help](#-need-more-help)
-11. [Attribution](#-attribution)
-12. [Thank you for your contribution](#thank-you-for-your-contribution)
+10. [Ideas](#-ideas)
+11. [Need More Help](#-need-more-help)
+12. [Attribution](#-attribution)
+13. [Thank you for your contribution](#thank-you-for-your-contribution)
 
 ![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
 
@@ -41,7 +41,7 @@ By participating in this project, you agree to maintain a **respectful and inclu
 
 ## 📜 License
 
-By contributing to this project, you agree that your contributions will be licensed under the [`MIT License`]( ).
+By contributing to this project, you agree that your contributions will be licensed under the [`MIT License`](https://github.com/Arnav-Singh-5080/Ai-Credit-Intelligence-Engine/blob/main/ai-credit-intelligence-engine/LICENSE).
 
 ![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
 
