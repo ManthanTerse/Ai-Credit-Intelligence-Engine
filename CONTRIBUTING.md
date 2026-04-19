@@ -83,13 +83,15 @@ You can contribute in several ways:
 
 ## 🚀 Getting Started
 
+For an overview of helpful skills, refer to `skills.md`.
+
 ### 1️⃣ Fork the Repository
 
 Click on the Fork button.
 
 ### 2️⃣ Clone Your Fork
 
-git clone https://github.com/your-username/uiverse.git
+git clone https://github.com/your-username/ai-credit-intelligence-engine.git
 
 ### 3️⃣ Create a Branch
 
